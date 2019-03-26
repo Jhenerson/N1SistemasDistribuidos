@@ -367,3 +367,11 @@
 2019-03-25 22:22:45,575 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\N1SistemasDistribuidos\SistemasInteligentes\src\main\resources
 2019-03-25 22:22:45,575 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-25 22:22:45,575 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\N1SistemasDistribuidos\SistemasInteligentes\src\test\resources
+2019-03-25 22:26:50,200 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 22:26:50,200 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\N1SistemasDistribuidos\SistemasInteligentes\src\main\resources
+2019-03-25 22:26:50,216 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 22:26:50,216 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\N1SistemasDistribuidos\SistemasInteligentes\src\test\resources
+2019-03-25 22:27:37,647 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 22:27:37,663 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\N1SistemasDistribuidos\SistemasInteligentes\src\main\resources
+2019-03-25 22:27:37,663 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 22:27:37,679 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jhenerson\workspace\N1SistemasDistribuidos\SistemasInteligentes\src\test\resources
