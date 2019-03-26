@@ -1,0 +1,19 @@
+package br.com.senaigo.sistemasdistribuidos.n1.SistemasInteligentes;
+
+public class MinhaThread implements Runnable{
+	
+	private String nome;
+	private long intervalo;
+	
+	public MinhaThread(String nome,long intervalo){
+		this.nome = nome;
+		this.intervalo = intervalo;
+	}
+	
+
+	public void run() {
+		
+		
+	}
+
+}

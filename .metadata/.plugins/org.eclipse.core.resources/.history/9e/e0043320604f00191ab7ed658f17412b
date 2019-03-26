@@ -1,0 +1,12 @@
+package br.com.senaigo.sistemasdistribuidos.n1.SistemasInteligentes;
+
+public class TarefaCalcularRaizQuadrada implements Runnable{
+	
+	
+
+	public void run() {
+
+		
+	}
+
+}

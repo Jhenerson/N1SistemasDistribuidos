@@ -1,0 +1,15 @@
+package br.com.senaigo.sistemasdistribuidos.n1.SistemasInteligentes;
+
+public class TestTarefa {
+	
+	public static void main(String args[]) {
+		TarefaRaizQuadrada t1 = new TarefaRaizQuadrada("ThreadRaizQuadrada",50);
+		Thread threadRaizQuadrada = new Thread(t1);
+		threadRaizQuadrada.start();
+		
+		TarefaRaizCubica t2 = new TarefaRaizCubica("ThreadRaizCubica",10);
+		Thread threadRaizCubica = new Thread(t2);
+		threadRaizCubica.start();
+
+	}
+}

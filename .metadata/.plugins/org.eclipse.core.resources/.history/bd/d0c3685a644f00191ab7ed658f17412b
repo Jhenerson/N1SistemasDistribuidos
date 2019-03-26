@@ -1,0 +1,26 @@
+package br.com.senaigo.sistemasdistribuidos.n1.SistemasInteligentes;
+
+public class Consumidor implements Runnable{
+	Cubiculo cub;
+	
+	public Consumer(Cubiculo cubiculo) {
+		this.cubiculo = cubiculo;
+	}
+
+	public void consumePalavra() {
+		String palavra = "";
+		try {
+			palavra = consumePalavra("Consumidor");
+			System.out.println("Palavra consumida == \"" + palavra + "\"");
+		} catch (Exception e) {
+			palavra = "";
+		}
+	}
+	
+	@Override
+	public void run() {
+		for (int i = 0; i < 10; i++) {
+			consumirPalavra();
+		}
+	}
+}

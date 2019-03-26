@@ -1,0 +1,11 @@
+package br.com.senaigo.sistemasdistribuidos.n1.SistemasInteligentes;
+
+public class TestThread {
+
+	public static void main(String[] args) {
+		
+		MinhaThread thread = new MinhaThread("thread 1", 300);
+
+	}
+
+}

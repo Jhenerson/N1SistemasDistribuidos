@@ -1,0 +1,14 @@
+package br.com.senaigo.sistemasdistribuidos.n1.SistemasInteligentes;
+
+public class TestProdutorConsumidorCubiculo {
+
+	public static void main(String[] args) {
+		Cubiculo cblol = new Cubiculo();
+
+		Consumidor consmidor = new Consmidor(cubiculo);
+		Produtor produtor = new Produtor(cubiculo);
+
+		new Thread(consmidor).start();
+		new Thread(produtor).start();
+	}
+}
